@@ -32,9 +32,9 @@ Insert Madou Monogatari 3 Sampling Disc into FFD #2.
 6. Enjoy
 
 ## Controls ##
-Movement - Arrow keys
-Confirm/select - Space bar
-Cancel/return - Enter key/escape key
+- Movement - Arrow keys
+- Confirm/select - Space bar
+- Cancel/return - Enter key/escape key
 
 ## FAQ ##
 - Are you going to Translate A.R.S?
